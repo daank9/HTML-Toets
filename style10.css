@@ -1,0 +1,130 @@
+.schaak{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border: 2px black solid;
+    flex-wrap: wrap;
+    
+}
+
+
+
+.black{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    
+}
+
+.white{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+}
+
+.black2{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    
+}
+
+.white2{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+}
+
+.black3{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    
+}
+
+.white3{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+}
+
+.black4{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    
+}
+
+.white4{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+}
+
+.black5{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    
+}
+
+.white5{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+}
+
+.black6{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    
+}
+
+.white6{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+}
+
+.black7{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    
+}
+
+.white7{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+}
+
+.black8{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    
+}
+
+.white8{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    display: flex;
+}

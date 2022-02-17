@@ -1,0 +1,55 @@
+.Home{
+    background-color: red;
+    text-align: center;
+    height: 30px;
+    width: 250px;
+    float: left;
+}
+
+.Diensten{
+    background-color: blue;
+    text-align: center;
+    height: 30px;
+    width: 250px;
+    float: left;
+}
+
+.Producten{
+    background-color: purple;
+    text-align: center;
+    height: 30px;
+    width: 250px;
+    float: left;
+}
+
+.Onsteam{
+    background-color: yellow;
+    text-align: center;
+    height: 30px;
+    width: 250px;
+    float: left;
+}
+
+.Onzewerkwijze{
+    background-color: green;
+    text-align: center;
+    height: 30px;
+    width: 250px;
+    float: left;
+}
+
+.Contact{
+    background-color: pink;
+    text-align: center;
+    height: 30px;
+    width: 250px;
+    float: left;
+}
+
+.navigatie{
+    width: 100%;
+}
+
+
+
+

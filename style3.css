@@ -1,0 +1,10 @@
+.herder{
+    font-size: 2cm;
+}
+
+@media only screen and (max-width: 500px) and (max-height: 500px){
+    .herder{
+        background-color: red;
+        font-size: 6cm;
+    }
+} 
